@@ -1,4 +1,4 @@
-### Hi there Devkaran  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hi there Devkaran welcome you <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 <!--
 **Code-CHOUDHARY/Code-CHOUDHARY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Devkaran-8a3ab9?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/devkaran_8198/"/>
 <img src="https://img.shields.io/badge/-Devkaran-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devkaransingh928@gmail.com"/>
 <img src="https://img.shields.io/badge/-Devkaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devkaran-choudhary-05298718b/"/>
-<img src="https://img.shields.io/badge/-Devkaran-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Er_DEVKARAN?s=08"/>
 
 </p>
 
@@ -45,13 +44,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<!-- <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/> -->
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
