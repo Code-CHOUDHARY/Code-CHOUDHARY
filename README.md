@@ -69,6 +69,9 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Code-CHOUDHARY&hide=css,java,html&theme=radical">
 </p>
 <p align = "center">
- 
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Code-CHOUDHARY&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
+
+
+### 😜Here's a Joke for you: <img src="https://media.giphy.com/media/kcxn8ZB7t6tf8vb0wS/giphy.gif" width="90px" />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
