@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <p align="center">
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
- <img src="https://badges.pufler.dev/visits/Code-CHOUDHARY/Code-CHOUDHARY"/>
- <img src="https://badges.pufler.dev/years/Code-CHOUDHARY"/>
- <img src="https://badges.pufler.dev/repos/Code-CHOUDHARY"/>
+ <img src="https://badges.pufler.dev/visits/Code-CHOUDHARY/Code-CHOUDHARY" />
+ <img src="https://badges.pufler.dev/years/Code-CHOUDHARY" />
+ <img src="https://badges.pufler.dev/repos/Code-CHOUDHARY" />
  <img src="https://badges.pufler.dev/commits/monthly/Code-CHOUDHARY" />
 
 </p>
