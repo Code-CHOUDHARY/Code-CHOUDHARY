@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-<img src="https://img.shields.io/badge/-Devkaran-8a3ab9?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/devkaran_8198/"/>
+<img src="https://img.shields.io/badge/-Devkaran-8a3ab9?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/devkaran_8198/"/>
 <img src="https://img.shields.io/badge/-Devkaran-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devkaransingh928@gmail.com"/>
 <img src="https://img.shields.io/badge/-Devkaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devkaran-choudhary-05298718b/"/>
 
