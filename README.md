@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  <img src="https://badges.pufler.dev/visits/Code-CHOUDHARY/Code-CHOUDHARY" />
  <img src="https://badges.pufler.dev/years/Code-CHOUDHARY" />
  <img src="https://badges.pufler.dev/repos/Code-CHOUDHARY" />
- <img src="https://badges.pufler.dev/commits/monthly/Code-CHOUDHARY" />
+ <img src="https://badges.pufler.dev/commits/all/Code-CHOUDHARY" />
 
 </p>
 
