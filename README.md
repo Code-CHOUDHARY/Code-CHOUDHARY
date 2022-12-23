@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <p align="center">
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS">
+ <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Code-CHOUDHARY/github-readme-stats" />
+ <img alt="Issues" src="https://img.shields.io/github/issues/Code-CHOUDHARY/github-readme-stats?color=0088ff" />
  <img src="https://badges.pufler.dev/years/Code-CHOUDHARY"/>
  <img src="https://badges.pufler.dev/repos/Code-CHOUDHARY"/>
  <img src="https://badges.pufler.dev/commits/all/Code-CHOUDHARY"/>
