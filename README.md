@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
- <img src="https://badges.pufler.dev/visits/Code-CHOUDHARY/Code-CHOUDHARY"/>
+ <img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS">
  <img src="https://badges.pufler.dev/years/Code-CHOUDHARY"/>
  <img src="https://badges.pufler.dev/repos/Code-CHOUDHARY"/>
  <img src="https://badges.pufler.dev/commits/all/Code-CHOUDHARY"/>
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  I'm a 3rd year student pursuing Bachelor in Computer Science And Engineering 🎓 from Parrul University 🏛. I'm a passionate learner who's always willing       to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills 🤓.
+  I'm a 4th year student pursuing Bachelor in Computer Science And Engineering 🎓 from Parrul University 🏛. I'm a passionate learner who's always willing       to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills 🤓.
 </p>  
 
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
