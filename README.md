@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  I'm a 4th year student pursuing Bachelor in Computer Science And Engineering 🎓 from Parul University 🏛. I'm a passionate learner who's always willing       to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills 🤓.
+ I am a full-stack React and Spring Boot developer with over 6 months of professional experience. Passionate about crafting innovative, efficient, and secure software solutions, I thrive on the challenges of creating exceptional user experiences.
+With a strong foundation in front-end development using React, I excel at building responsive and intuitive user interfaces. My expertise also extends to back-end development with Spring Boot, where I focus on creating efficient and scalable server-side applications.
+With a keen eye for detail and a commitment to delivering high-quality code, I strive to create software solutions that are both functional and visually appealing. I am eager to contribute my skills and enthusiasm to new projects and continue growing as a developer.
 </p>  
 
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
