@@ -1,5 +1,5 @@
 ### Hi there Devkaran welcome you <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-<span style="text-align:center">.............................................<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px" ><img src="https://github.com/Code-CHOUDHARY/Code-CHOUDHARY/blob/main/backphoto.svg" width="400" height="400"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">.....................................</span>
+<span style="text-align:center"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px" ><img src="https://github.com/Code-CHOUDHARY/Code-CHOUDHARY/blob/main/backphoto.svg" width="400" height="400"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"></span>
 <!--
 **Code-CHOUDHARY/Code-CHOUDHARY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
