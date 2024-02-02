@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
- I am a full-stack React and Spring Boot developer with over 6 months of professional experience. Passionate about crafting innovative, efficient, and secure software solutions, I thrive on the challenges of creating exceptional user experiences.
+ I am a full-stack React and Spring Boot developer with over 1+ years of professional experience. Passionate about crafting innovative, efficient, and secure software solutions, I thrive on the challenges of creating exceptional user experiences.
 With a strong foundation in front-end development using React, I excel at building responsive and intuitive user interfaces. My expertise also extends to back-end development with Spring Boot, where I focus on creating efficient and scalable server-side applications.
 With a keen eye for detail and a commitment to delivering high-quality code, I strive to create software solutions that are both functional and visually appealing. I am eager to contribute my skills and enthusiasm to new projects and continue growing as a developer.
 </p>  
@@ -35,9 +35,9 @@ With a keen eye for detail and a commitment to delivering high-quality code, I s
 
 <p align="center">
   
-<img src="https://img.shields.io/badge/-Devkaran-8a3ab9?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/devkaran_8198/"/>
+<img src="https://img.shields.io/badge/-Devkaran-8a3ab9?style=flat-square&logo=instagram&logoColor=white&link=[https://www.instagram.com/devkaran_00/](https://www.instagram.com/devkaran_00/)"/>
 <img src="https://img.shields.io/badge/-Devkaran-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devkaransingh928@gmail.com"/>
-<img src="https://img.shields.io/badge/-Devkaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devkaran-choudhary-05298718b/"/>
+<img src="https://img.shields.io/badge/-Devkaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/devkaran-choudhary-05298718b/](https://www.linkedin.com/in/devkaran-choudhary-1b0ab7236/)"/>
 
 </p>
 
