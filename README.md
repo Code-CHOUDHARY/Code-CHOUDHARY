@@ -35,9 +35,9 @@ With a keen eye for detail and a commitment to delivering high-quality code, I s
 
 <p align="center">
   
-<img src="https://img.shields.io/badge/-Devkaran-8a3ab9?style=flat-square&logo=instagram&logoColor=white&link=[https://www.instagram.com/devkaran_00/](https://www.instagram.com/devkaran_00/)"/>
+<img src="https://img.shields.io/badge/-Devkaran-8a3ab9?style=flat-square&logo=instagram&logoColor=white&link="https://www.instagram.com/devkaran_00/"/>
 <img src="https://img.shields.io/badge/-Devkaran-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devkaransingh928@gmail.com"/>
-<img src="https://img.shields.io/badge/-Devkaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/devkaran-choudhary-05298718b/](https://www.linkedin.com/in/devkaran-choudhary-1b0ab7236/)"/>
+<img src="https://img.shields.io/badge/-Devkaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/devkaran-choudhary-1b0ab7236/"/>
 
 </p>
 
